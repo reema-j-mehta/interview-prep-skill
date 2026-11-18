@@ -16,7 +16,7 @@ The brief adapts to the interview stage (recruiter, hiring manager or panel, fin
 
 ## Install
 ```
-git clone https://github.com/<your-username>/interview-prep-skill ~/.claude/skills/interview-prep
+git clone https://github.com/reema-j-mehta/interview-prep-skill ~/.claude/skills/interview-prep
 ```
 You can also download the ZIP and put the folder at `~/.claude/skills/interview-prep/`.
 
